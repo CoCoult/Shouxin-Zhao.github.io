@@ -7,4 +7,5 @@ redirect_from:
   - /about.html
 ---
 Hil, I'm a first-year Master's student of HTFU.
+Email: zhaoshouxin@mail.hfut.edu.cn
 
