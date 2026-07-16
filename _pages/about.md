@@ -6,5 +6,5 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
+Email: zhaoshouxin@mail.hfut.edu.cn
 
